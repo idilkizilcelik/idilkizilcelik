@@ -6,8 +6,8 @@ Currently learning embedded systems<3
 <p><a href="https://www.linkedin.com/in/idil-kızılçelik-3ab27b385" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=pink" alt="LinkedIn"></a> </p>
 
 
- <div data-importer="image" align="center">
-  <img data-importer="image" height="200" src="https://tenor.com/tr/view/aykut-elmas-gif-5928855345091416193"  />
+<div data-importer="image" align="right">
+  <img data-importer="image" height="200" src="https://media1.tenor.com/m/UkeGhiDZkIEAAAAd/aykut-elmas.gif"  />
 </div>
 
 ###
