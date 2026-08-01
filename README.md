@@ -11,6 +11,11 @@ Currently learning embedded systems<3
 </div>
 
 ###
+<div data-importer="image" align="center">
+  <img data-importer="image" height="200" src="https://media1.tenor.com/m/CgGUXc-LDc4AAAAC/hacker-pc.gif"  />
+</div>
+
+###
 
 ## Skills
 
