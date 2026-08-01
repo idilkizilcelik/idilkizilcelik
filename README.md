@@ -6,12 +6,12 @@ Currently learning embedded systems<3
 <p><a href="https://www.linkedin.com/in/idil-kızılçelik-3ab27b385" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=pink" alt="LinkedIn"></a> </p>
 
 
-<div data-importer="image" align="right">
-  <img data-importer="image" height="200" src="https://media1.tenor.com/m/UkeGhiDZkIEAAAAd/aykut-elmas.gif"  />
-<div data-importer="image" align="center">
-  <img data-importer="image" height="200" src="https://media1.tenor.com/m/CgGUXc-LDc4AAAAC/hacker-pc.gif"  />
-</div>
-
+<table align="center">
+  <tr>
+    <td><img height="200" src="https://media1.tenor.com/m/UkeGhiDZkIEAAAAd/aykut-elmas.gif" /></td>
+    <td><img height="200" src="https://media1.tenor.com/m/CgGUXc-LDc4AAAAC/hacker-pc.gif" /></td>
+  </tr>
+</table>
 ###
 
 ## Skills
