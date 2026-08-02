@@ -17,12 +17,6 @@ Currently learning embedded systems<3
   </tr>
 </table>
 
-<table align="center">
-  <tr>
-    <td><img height="400" src="https://i.pinimg.com/originals/e7/d3/18/e7d318ddc6c51f76a1e00c23ea87f19b.gif" /></td>
-  </tr>
-</table>
-
 
 
 ## Contact Me
