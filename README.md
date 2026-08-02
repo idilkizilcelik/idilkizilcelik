@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://i.pinimg.com/originals/e7/d3/18/e7d318ddc6c51f76a1e00c23ea87f19b.gif" width="300%">
-</div>
+
 
 # Hello :3, I'm İdil
 
@@ -18,6 +16,14 @@ Currently learning embedded systems<3
     <td><img height="200" src="https://media1.tenor.com/m/CgGUXc-LDc4AAAAC/hacker-pc.gif" /></td>
   </tr>
 </table>
+
+<table align="center">
+  <tr>
+    <td><img height="200" src="https://i.pinimg.com/originals/e7/d3/18/e7d318ddc6c51f76a1e00c23ea87f19b.gif" /></td>
+  </tr>
+</table>
+
+
 
 ## Contact Me
 <p><a href="https://www.linkedin.com/in/idil-kızılçelik-3ab27b385" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=pink" alt="LinkedIn"></a> </p>
