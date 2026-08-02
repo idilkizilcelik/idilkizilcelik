@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="gif-url" width="100%">
+  <img src="https://i.pinimg.com/originals/e7/d3/18/e7d318ddc6c51f76a1e00c23ea87f19b.gif" width="300%">
 </div>
 
 # Hello :3, I'm İdil
