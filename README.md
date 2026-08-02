@@ -1,3 +1,5 @@
+![banner](https://i.pinimg.com/originals/e7/d3/18/e7d318ddc6c51f76a1e00c23ea87f19b.gif)
+
 # Hello :3, I'm İdil
 
 
