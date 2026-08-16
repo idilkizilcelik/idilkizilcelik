@@ -3,9 +3,9 @@
 # Hello :3, I'm İdil
 
 
+Software Engineering student at Izmir University of Economics
 
 
-Currently learning embedded systems<3
 
 
 
