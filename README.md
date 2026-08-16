@@ -20,6 +20,11 @@ Software Engineering student at Izmir University of Economics
 
 
 ## Contact Me
+
+
+
+
+
 <p><a href="https://www.linkedin.com/in/idil-kızılçelik-3ab27b385" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=pink" alt="LinkedIn"></a> </p>
 
 
@@ -32,6 +37,12 @@ Software Engineering student at Izmir University of Economics
 
 
 ## Skills
+
+
+
+
+
+
 
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>&nbsp;
